@@ -1,5 +1,5 @@
 .page-home {
-  background-image: url('../images/undraw_taking_notes_tjaf.svg');
+  background-image: url('../images/undraw_seniors_running.jpg');
   background-repeat: no-repeat;
   background-size: 115%;
   background-position: 49px -40px;
@@ -12,8 +12,8 @@
     background-position: 100% -50px;
   }
   @include media-breakpoint-up(lg) {
-    background-size: 60%;
-    background-position: 100% -70px;
+    background-size: 65%;
+    background-position: 100% 110px;
   }
   .call {
     position: relative;

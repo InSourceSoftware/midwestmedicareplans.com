@@ -8,17 +8,18 @@ bodyClass: page-contact
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h1>Contact</h1>
+        <h1>{{ page.title }}</h1>
       </div>
     </div>
   </div>
 </div>
+
 <div class="container">
   <div class="row">
     <div class="col-12 col-md-8">
       <ul>
         <li><strong>Phone: </strong>{{ site.data.contact.phone }}</li>
-        <li><strong>Email: </strong><a href="mailto:{{ site.data.contact.email }}">
+        <li><strong>Email: </strong><a href="mailto:{{ site.data.contact.email }}?subject={{ site.data.contact.subject }}">
             {{ site.data.contact.email }}</a></li>
         {% if site.data.contact.address %}
         <li><strong>Address: </strong>{{ site.data.contact.address }}</li>

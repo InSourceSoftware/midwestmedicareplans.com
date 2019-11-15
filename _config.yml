@@ -1,9 +1,12 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Senior Medicare Plans'
 
 collections:
+  plans:
+    output: true
+    permalink: /plans/:path/
   services:
     output: true
     permalink: /services/:path/
@@ -15,6 +18,11 @@ collections:
     permalink: /testimonials/:path/
 
 defaults:
+  - scope:
+      type: plans
+    values:
+      layout: service
+      bodyClass: page-services-single
   - scope:
       type: services
     values:

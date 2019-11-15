@@ -1,13 +1,21 @@
 ---
-title: Jekyll Serif - Jekyll Small Business Theme
+title: Senior Medicare Plans - Subtitle
 layout: default
 bodyClass: page-home
+
+heading: 'Senior<br />Medicare<br />Plans'
+description: 'Our business helps hundreds of customers with their accounting and taxation needs each year.<br /><br />Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares ignisque quaerit dederat gemino Aethiopesque caelo ulciscitur est.'
+
+plans: on
+services: off
+highlights: on
+features: off
 ---
 
 <div class="intro pb-4">
   <div class="container">
-    <h1>Serif - Jekyll Small Business Theme.</h1>
-    <p>Our business helps hundreds of customers with their accounting and taxation needs each year.</p>
+    <h1>{{ page.heading }}</h1>
+    <p>{{ page.description }}</p>
   </div>
 </div>
 
@@ -16,7 +24,7 @@ bodyClass: page-home
     <div class="call-box-top">
       <div class="call-phone"><strong>Phone: </strong> {{ site.data.contact.phone }} </div>
       <div class="call-email"><strong>Email: </strong>
-        <a href="mailto:{{ site.data.contact.email }}">
+        <a href="mailto:{{ site.data.contact.email }}?subject={{ site.data.contact.subject }}">
           {{ site.data.contact.email }}
         </a>
       </div>
@@ -27,6 +35,32 @@ bodyClass: page-home
   </div>
 </div>
 
+{% if page.plans %}}
+<div class="container pt-8 pt-md-10">
+  <div class="row justify-content-start">
+    <div class="col-12">
+      <h2 class="title-3 text-dark mb-3">Our Plans</h2>
+    </div>
+    {% for plan in site.plans %}
+    <div class="col-12 col-md-4 mb-1">
+      <div class="service service-summary">
+        <div class="service-content">
+          <h2 class="service-title">
+            <a href="{{site.baseurl}}{{ plan.url }}">{{ plan.title }}</a>
+          </h2>
+          {{ plan.content | markdownify | strip_html | truncate: 100 }}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+    <div class="col-12 text-center">
+      <a class="button button-primary mt-2" href="{{site.baseurl}}/plans">View All Plans</a>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+{% if page.services %}
 <div class="container pt-8 pt-md-10">
   <div class="row justify-content-start">
     <div class="col-12">
@@ -49,7 +83,28 @@ bodyClass: page-home
     </div>
   </div>
 </div>
+{% endif %}
 
+{% if page.highlights %}
+<div class="container pt-5 pb-5 pt-md-7 pb-md-7">
+  <div class="row justify-content-center">
+    <div class="col-12">
+      <h2 class="title-3 text-dark mb-4">Our Services</h2>
+    </div>
+    {% for highlight in site.data.highlights %}
+    <div class="col-12 col-md-6 col-lg-4 mb-2">
+      <div class="feature">
+        {% if highlight.image %}<div class="feature-image"><img alt="{{ highlight.title }} logo" src="{{ highlight.image }}" /></div> {% endif %}
+        <h2 class="feature-title">{{ highlight.title }}</h2>
+        <div class="feature-content">{{ highlight.description }}</div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
+{% if page.features %}
 <div class="container pt-5 pb-5 pt-md-7 pb-md-7">
   <div class="row justify-content-center">
     <div class="col-12">
@@ -66,3 +121,4 @@ bodyClass: page-home
     {% endfor %}
   </div>
 </div>
+{% endif %}

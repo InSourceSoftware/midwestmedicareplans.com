@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Plans
 layout: default
 bodyClass: page-services-list
 
@@ -20,14 +20,14 @@ description: 'Our business helps hundreds of customers with their accounting and
 
 <div class="container pb-6">
   <div class="row">
-    {% for service in site.services %}
+    {% for plan in site.plans %}
     <div class="col-12 col-md-4 mb-1">
       <div class="service service-summary">
         <div class="service-content">
           <h2 class="service-title">
-            <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
+            <a href="{{site.baseurl}}{{ plan.url }}">{{ plan.title }}</a>
           </h2>
-          {{ service.content | markdownify | strip_html | truncate: 100 }}
+          {{ plan.content | markdownify | strip_html | truncate: 100 }}
         </div>
       </div>
     </div>
