@@ -1,6 +1,6 @@
 ---
-title: 'Business Advisory'
-image: '/services/default.png'
+title: Business Advisory
+image: "/services/default.png"
 ---
 
 Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares

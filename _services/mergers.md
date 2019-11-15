@@ -1,5 +1,5 @@
 ---
-title: "Mergers"
+title: Mergers
 image: "/services/default.png"
 ---
 

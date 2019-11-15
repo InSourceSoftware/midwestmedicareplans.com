@@ -1,42 +1,52 @@
-baseurl: '/seniormedicareplans'
-exclude: ['README.md']
-permalink: pretty
-title: 'Senior Medicare Plans'
-
+---
+title: Senior Medicare Plans
+timezone: UTC
 collections:
   plans:
+    title: Plans
     output: true
-    permalink: /plans/:path/
+    permalink: "/plans/:path/"
+  posts:
+    title: Posts
+    output: true
   services:
+    title: Services
     output: true
-    permalink: /services/:path/
+    permalink: "/services/:path/"
   team:
+    title: Team
     output: true
-    permalink: /team/:path/
+    permalink: "/team/:path/"
   testimonials:
+    title: Testimonials
     output: true
-    permalink: /testimonials/:path/
-
+    permalink: "/testimonials/:path/"
+  uploads:
+    title: Uploads
+    output: true
 defaults:
-  - scope:
-      type: plans
-    values:
-      layout: service
-      bodyClass: page-services-single
-  - scope:
-      type: services
-    values:
-      layout: service
-      bodyClass: page-services-single
-  - scope:
-      path: 'images'
-    values:
-      image: true
-
+- scope:
+    path: ''
+    type: plans
+  values:
+    layout: service
+    bodyClass: page-services-single
+- scope:
+    path: ''
+    type: services
+  values:
+    layout: service
+    bodyClass: page-services-single
+- scope:
+    path: images
+  values:
+    image: true
+baseurl: "/seniormedicareplans"
+exclude:
+- README.md
+permalink: pretty
 sass:
-  style: compact # possible values: nested expanded compact compressed
-
-google_analytics_id: null
-
+  style: compact
+google_analytics_id: 
 plugins:
-  - jekyll-environment-variables
+- jekyll-environment-variables
