@@ -41,12 +41,17 @@ defaults:
     path: images
   values:
     image: true
-baseurl: "/seniormedicareplans"
+baseurl: ""
 exclude:
+- .sass-cache
+- Gemfile
+- Gemfile.lock
+- LICENSE
 - README.md
+- CNAME
 permalink: pretty
 sass:
   style: compact
-google_analytics_id: 
+google_analytics_id:
 plugins:
 - jekyll-environment-variables
