@@ -1,5 +1,5 @@
 ---
-title: Mergers
+title: Life Insurance
 image: "/services/default.png"
 ---
 

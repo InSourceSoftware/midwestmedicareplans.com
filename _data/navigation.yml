@@ -1,6 +1,5 @@
 home: 'Home'
-plans: 'Plans'
-#services: 'Services'
-team: 'Team'
+services: 'Services'
+about: 'About'
 testimonials: 'Testimonials'
 contact: 'Contact'
