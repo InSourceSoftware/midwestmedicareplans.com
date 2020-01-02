@@ -1,47 +1,16 @@
 ---
-title: Business Sales
+title: Medicare Advantage Prescription Drug Plans
 image: "/services/default.png"
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+## Medicare Advantage Prescription Drug Plan (MA-PD)
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+Pays healthcare and prescription costs in one private insurance company plan.  
 
-## Geniti facinus praeruptam atris ab manus in
+A Medicare Advantage Plan is another way to get your health-care coverage. Medicare Advantage is an “all in one” alternative to Original Medicare. You must continue paying Part A premiums if applicable, and Part B premiums. Sometimes called “Part C” or ‘MA plans”, Medicare-approved private insurance companies must follow rules set by Medicare. If you enroll, you are leaving original Medicare. In some plans for instance an HMO MA-PD plan, you must use network providers. There may be some exceptions such as emergencies. You will receive your coverage from the private company you enrolled with. 
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+Your coverage may change each year. For example your Maximum Out of Pocket cost may increase each year. Or an annual plan deductible such as $1,000 may be applied. Claims questions, appeals, grievances, and complaints must be filed with the private insurance company you enrolled with. During the Annual Election Period (AEP) October 15-December 7, you may return to original Medicare, or choose another MA-PD plan to enroll with which would become effective the following January 1. 
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+The options you have in MA-PD plans are determined by your eligibility for Medicare Part A and Part B. Additionally by the state and county you live in. These options are explained in a paper enrollment booklet, or online, by the private company which has a contract with Medicare. Not all plans are offered in all counties. Some counties may not have any plan options. 
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
-
-## Vidit si probetne vertitur
-
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
-
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
-
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+Some plans offer extra benefits that original Medicare doesn’t cover-like dental, vision, hearing,  and wellness . 

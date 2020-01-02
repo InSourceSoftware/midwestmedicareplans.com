@@ -1,43 +1,18 @@
 ---
-title: Tax Preperation
+title: Long Term Care Insurance Plans
 image: "/services/noun_1013177.png"
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+## Long Term Care Insurance policy needs, features, and benefits.
 
-- Nata perque
-- Et ferrugine laedam
-- Cedere tandem Atlante maiestas Italicis ut forma
+For level premiums, policy pays when doctor certifies need for custodial care. As you age, you may need help with things you’ve always been able to do yourself – shopping for groceries, fixing meals, cleaning the house. You may also need help with personal services, like bathing, dressing or taking medications. A long-term care insurance policy is designed to help you pay for these types of services.
 
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
+Waiting for Benefits to Begin. When you purchase a long-term care insurance policy, you will
+select a waiting period, called an elimination period during which time any costs for long-term care services are your responsibility. You have the option to choose how to receive payment of policy benefits. A traditional reimbursement benefit is payable after satisfying your policy’s elimination period. Or you can elect to receive a cash benefit with no elimination period to satisfy.
 
-1. Imagine Assaracus victori petet femina mea haustos
-2. Sicaniam quibus agro magni
-3. In utque Troica pedum caelestia hunc tempto
-4. Gregibus certare tamen turbatque qui
+Free consultation to determine premium cost and benefits which may be used to determine if long-term care insurance is suitable for you in your financial circumstances.For your level premiums, plan pays when a licensed practitioner certifies need for custodial care. As you age, you may need help with things you’ve always been able to do yourself – shopping for groceries, fixing meals, cleaning the house. You may also need help with personal services, like bathing, dressing or taking medications. A long-term care insurance policy is designed to help you pay for these types of services.
 
-## Patulis Veneris est expulit adversaque magnum mediaque
+A long-term care insurance policy pays benefits if your needs for care meet certain conditions. 
+When you need services a licensed health care practitioner must certify you are chronically ill and submit a plan of care prescribing long-term care services.
 
-Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
-subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,
-**mitescere**, ferro queat, porrigitur exiguas viridique mille quis latus
-quodque. Non una genuisse ullis efficiet ad corpore nunc mentesque praestant?
-
-_Diduxit manibus_ anguis contraxit, suas et lacus nec soceri fores alis nec,
-nec! Data pater Perseu minanti animam operitur illa dolorem.
-
-Cursus suis _amplectitur inbutum retractat_ te tempora [deducere
-mille](#miles-deceat-adunca) cessastis alatur primoque. Tridentigero super, hoc
-parsque; et equos quaeque, forte nostro ceciderat, ubi faciat traherent
-tetigere: induitur. Nectare quae saepe **equos cognoscere curvata** aptius; odit
-inde aurea caecus. Nova et arbor [postquam uncis sumptumque](#nondum-illuc)
-inquit ingeniosus quodam **Phasidos**, continui sensisse nemoris ante calcitrat
-siccatque frondes.
-
-Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
-formosus servat potui. Luce ebur, pulcherrimus plus tradere! _Quam perque
-semper_?
+Payment of Benefits continue as long as you remain chronically ill, and eligible for benefits. Your policy will continue paying for covered long-term care services until your policy limit is reached.

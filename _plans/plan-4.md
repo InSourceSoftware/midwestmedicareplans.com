@@ -1,50 +1,31 @@
 ---
-title: Mergers
+title: Dental, Vision, & Hearing Insurance Plans
 image: "/services/default.png"
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+## Dental Insurance Plans
 
-## Ne verba patulosque numen vix libet
+Benefits paid for dental services.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+A Preferred Provider Organization (PPO) dentist has agreed to provide dental care at negotiated fees. If you elect a dentist who does not participate in the PPO network, your out-of-pocket expenses may be greater. 
+Covered Diagnostic and Preventive services may have no deductible and 100% coverage. .
+Basic services in Class II and major services in Class III may have a separate deductible, or be combined for a deductible. Class II and Class III services may have a lower than 100% percentage coinsurance, such as 80%, and 50%. 
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+May have an annual maximum total benefit for all classes of services, I, II, and III, such as $1,000 or $1,500 of dental care costs.
+Lifetime maximum benefits will apply, such as $2,000, or $3,000. 
+Cleanings may be covered twice per year, however certain services such as x-rays may be covered once per year. 
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+Waiting periods of 12 months apply for crowns, bridges, dentures, root canal, and periodontics.  
+Exclusions and definitions will apply and require reading the application and terms.   
 
-## Postquam tamen
+## Vision Insurance Plans
+  
+Usually vision costs for exams, frames, lenses, are subject to a deductible.
+Frames and lenses costs may be covered expenses only once every 1 or 2 years.
+Insurance companies may offer a vision rider as an option to dental insurance. 
+Vision benefits may be available on some Medicare Advantage plans
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+## Hearing Insurance Plans
+  
+Hearing expenses coverage for a monthly premium. 
+Not offered by all companies to individuals. Group plans of employers for retirees may be more common. Hearing aids and hearing exam benefits are available on some Medicare Advantage plans. 
