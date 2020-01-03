@@ -1,6 +1,6 @@
 ---
-title: Coverage Consultation
-permalink: "/services/coverage-consultation/"
+title: Review Other Health Plans
+permalink: "/services/review-other-health-plan/"
 image: "/images/services/noun_591323.png"
 ---
 
