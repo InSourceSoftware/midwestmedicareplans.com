@@ -1,8 +1,8 @@
 ---
 title: Medicare Advantage Prescription Drug Plans
+permalink: "/plans/medicare-advantage-prescription-drug-plans/"
 description: Medicare Advantage Prescription Drug Insurance Plans (MA-PD).
 image: "/images/services/noun_327190.png"
-permalink: "/plans/medicare-advantage-prescription-drug-plans/"
 ---
 
 ## Medicare Advantage Prescription Drug Plan (MA-PD)

@@ -1,7 +1,7 @@
 ---
 title: Premium Quotes
-image: "/images/services/noun_180174_0.png"
 permalink: "/services/premium-quotes/"
+image: "/images/services/noun_180174_0.png"
 ---
 
 ## Medicare Supplement Insurance premium comparison of 3 carriers.

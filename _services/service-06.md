@@ -1,7 +1,7 @@
 ---
 title: Medicare Advantage Review
-image: "/images/services/noun_591323.png"
 permalink: "/services/medicare-advantage-review/"
+image: "/images/services/noun_591323.png"
 ---
 
 ## Medicare Advantage Prescription Drug (MA-PD) plan annual review. 

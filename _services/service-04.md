@@ -1,7 +1,7 @@
 ---
 title: Budget Coaching
-image: "/images/services/noun_982388.png"
 permalink: "/services/budget-coaching/"
+image: "/images/services/noun_982388.png"
 ---
 
 ## Budget & Income Coaching 2 hours no charge.

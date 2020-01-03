@@ -1,8 +1,8 @@
 ---
 title: Dental, Vision, &amp; Hearing Insurance Plans
+permalink: "/plans/dental-vision-hearing-insurance-plans/"
 description: Dental, Vision, &amp; Hearing Insurance (DVH) Plans.
 image: "/images/services/noun_982388.png"
-permalink: "/plans/dental-vision-hearing-insurance-plans/"
 ---
 
 ## Dental Insurance Plans

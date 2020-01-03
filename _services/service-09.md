@@ -1,8 +1,8 @@
 ---
 title: Another Service...
+permalink: "/services/another-service/"
 published: false
 image: "/images/services/noun_1098396.png"
-permalink: "/services/another-service/"
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum

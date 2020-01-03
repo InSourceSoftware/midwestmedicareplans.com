@@ -1,8 +1,8 @@
 ---
 title: Life Insurance Plans
+permalink: "/plans/life-insurance-plans/"
 description: Life Insurance Needs Analysis &amp; Plans (including Final Expense).
 image: "/images/services/noun_1098396.png"
-permalink: "/plans/life-insurance-plans/"
 ---
 
 ## Life insurance needs analysis for no charge. 

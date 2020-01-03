@@ -1,8 +1,8 @@
 ---
 title: Life Insurance
+permalink: "/services/life-insurance/"
 published: false
 image: "/images/services/noun_591323.png"
-permalink: "/services/life-insurance/"
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
