@@ -44,7 +44,7 @@ defaults:
     path: images
   values:
     image: true
-baseurl: ''
+baseurl: 
 exclude:
 - ".sass-cache"
 - Gemfile
