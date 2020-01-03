@@ -4,8 +4,8 @@ permalink: "/services/premium-quotes/"
 image: "/images/services/noun_180174_0.png"
 ---
 
-## Medicare Supplement Insurance premium comparison of 3 carriers.
+Are you satisfied with your premium for the next 12 months?
 
-Medicare supplement premium quote are best done annually before your renewal date.
+Medicare supplement quotes are best done before your renewal date. Call me for a comparison of three Medicare Supplement Insurance carriers. Have your renewal letter when you call, so that I know your current carrier and rate.
 
-Monthly premium comparison costs from 3 carriers for available plans in your address’s zip code. Remember Medicare Supplement Policies are standardized, making price comparison easier and more meaningful.  
+Monthly premium quotes for available plans from three carriers will use your zip code to provide you with the most accurate premium. Because Medicare Supplement policies are standardized for easy comparison, it only takes a few minutes to help you save money.
