@@ -1,7 +1,8 @@
 ---
 title: Long Term Care Insurance
 published: false
-image: "/services/noun_1013177.png"
+image: "/images/services/noun_1013177.png"
+permalink: "/services/long-term-care-insurance/"
 ---
 
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,

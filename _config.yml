@@ -9,6 +9,9 @@ collections:
   posts:
     title: Posts
     output: true
+  drafts:
+    title: Drafts
+    output: false
   services:
     title: Services
     output: true

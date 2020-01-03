@@ -1,6 +1,7 @@
 ---
 title: Prescription Drug Review
-image: "/services/noun_591323.png"
+image: "/images/services/noun_591323.png"
+permalink: "/services/prescription-drug-review/"
 ---
 
 ## Prescription Drug Plan (PDP) annual review.

@@ -1,6 +1,8 @@
 ---
 title: Medicare Supplement Plans
-image: "/services/noun_591323.png"
+description: Medicare Supplement (Med Supp To Original Medicare Insurance) Plans.
+image: "/images/services/noun_591323.png"
+permalink: "/plans/medicare-supplement-plans/"
 ---
 
 ## Medicare Supplement Insurance Policy (Medigap policies)

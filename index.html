@@ -15,12 +15,8 @@ features: false
     <h1>{{ page.heading }}</h1>
     <p>{{ page.description }}</p>
     <ul>
-      {% for advice in site.data.advice %}
-        {% if advice.url %}
-          <li><a href="{{ advice.url }}" title="{{ advice.description }}">{{ advice.title }}</a></li>
-        {% else %}
-          <li>{{ advice.title }}</li>
-        {% endif %}
+      {% for plan in site.plans %}
+        <li><a href="{{site.baseurl}}{{ plan.url }}" title="{{ plan.description }}">{{ plan.title }}</a></li>
       {% endfor %}
     </ul>
   </div>
@@ -48,7 +44,7 @@ features: false
     <div class="col-12">
       <h2 class="title-3 text-dark mb-3">Our Plans</h2>
     </div>
-    {% for plan in site.plans %}
+    {% for plan in site.plans limit:6 %}
     <div class="col-12 col-md-4 mb-1">
       <div class="service service-summary">
         <div class="service-content">
@@ -73,7 +69,7 @@ features: false
     <div class="col-12">
       <h2 class="title-3 text-dark mb-3">Available Services</h2>
     </div>
-    {% for service in site.services %}
+    {% for service in site.services limit:6 %}
     <div class="col-12 col-md-4 mb-1">
       <div class="service service-summary">
         <div class="service-content">
@@ -98,7 +94,7 @@ features: false
     <div class="col-12">
       <h2 class="title-3 text-dark mb-4">Our Services</h2>
     </div>
-    {% for highlight in site.data.highlights %}
+    {% for highlight in site.data.highlights limit:3 %}
     <div class="col-12 col-md-6 col-lg-4 mb-2">
       <div class="feature">
         {% if highlight.image %}<div class="feature-image"><img alt="{{ highlight.title }} logo" src="{{ highlight.image }}" /></div> {% endif %}
@@ -117,7 +113,7 @@ features: false
     <div class="col-12">
       <h2 class="title-3 text-dark mb-4">Our Features</h2>
     </div>
-    {% for feature in site.data.features %}
+    {% for feature in site.data.features limit:3 %}
     <div class="col-12 col-md-6 col-lg-4 mb-2">
       <div class="feature">
         {% if feature.image %}<div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image }}" /></div> {% endif %}

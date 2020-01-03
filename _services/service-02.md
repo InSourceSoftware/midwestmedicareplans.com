@@ -1,6 +1,7 @@
 ---
 title: Eligibility Review
-image: "/services/default.png"
+image: "/images/services/noun_327190.png"
+permalink: "/services/eligibility-review/"
 ---
 
 ## Medicare Supplement health underwriting review for eligibility.

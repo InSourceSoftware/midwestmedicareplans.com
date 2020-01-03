@@ -1,7 +1,8 @@
 ---
-title: Life Insurance
+title: Another Service...
 published: false
-image: "/services/default.png"
+image: "/images/services/noun_1098396.png"
+permalink: "/services/another-service/"
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum

@@ -1,6 +1,8 @@
 ---
 title: Long Term Care Insurance Plans
-image: "/services/noun_1013177.png"
+description: Long Term Care Insurance (Nursing Home and Home Health Care) Plans.
+image: "/images/services/noun_1013177.png"
+permalink: "/plans/long-term-care-insurance-plans/"
 ---
 
 ## Long Term Care Insurance policy needs, features, and benefits.
