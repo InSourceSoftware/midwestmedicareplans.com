@@ -1,6 +1,6 @@
 ---
 title: Review Other Health Plans
-permalink: "/services/review-other-health-plan/"
+permalink: "/services/review-other-health-plans/"
 image: "/images/services/noun_591323.png"
 ---
 
