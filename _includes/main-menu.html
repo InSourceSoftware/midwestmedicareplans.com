@@ -2,9 +2,9 @@
   <ul>
     {% for nav in site.data.navigation %}
     {% if nav[0] == 'home' %}
-    <li><a href="{{site.baseurl}}/" class="{% if page.url == '/' %}current{% endif %}">{{ nav[1] }}</a></li>
+    <li><a href="{{ site.baseurl }}/" class="{% if page.url == '/' %}current{% endif %}">{{ nav[1] }}</a></li>
     {% else %}
-    <li><a href="{{site.baseurl}}/{{ nav[0] }}" class="{% if page.url == nav[0] %}current{% endif %}">{{ nav[1] }}</a></li>
+    <li><a href="{{ site.baseurl }}/{{ nav[0] }}" class="{% if page.url == nav[0] %}current{% endif %}">{{ nav[1] }}</a></li>
     {% endif %}
     {% endfor %}
   </ul>

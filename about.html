@@ -12,7 +12,7 @@ description: Our team of qualified accountants and financial consultants can hel
     <div class="row">
       <div class="col-12">
         <h1>{{ page.heading }}</h1>
-        <p>{{ page.description }}</p>
+        <p>{{ site.page_descriptions.about | default: page.description }}</p>
       </div>
     </div>
   </div>
@@ -28,7 +28,7 @@ description: Our team of qualified accountants and financial consultants can hel
           <img
             alt="{{ team.title }} logo"
             class="img-fluid mb-2"
-            src="{{site.baseurl}}{{ team.image }}"
+            src="{{ site.baseurl }}{{ team.image }}"
           />
         </div>
         {% endif %}

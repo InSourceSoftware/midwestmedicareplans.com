@@ -3,8 +3,7 @@ title: Plans
 layout: default
 bodyClass: page-services-list
 heading: Services that grow with your business
-description: Our business helps hundreds of customers with their accounting and taxation
-  needs each year.
+description: Our business helps hundreds of customers with their accounting and taxation needs each year.
 ---
 
 <div class="intro">
@@ -12,7 +11,7 @@ description: Our business helps hundreds of customers with their accounting and 
     <div class="row">
       <div class="col-12">
         <h1>{{ page.heading }}</h1>
-        <p>{{ page.description }}</p>
+        <p>{{ site.page_descriptions.plans | default: page.description }}</p>
       </div>
     </div>
   </div>
@@ -25,7 +24,7 @@ description: Our business helps hundreds of customers with their accounting and 
       <div class="service service-summary">
         <div class="service-content">
           <h2 class="service-title">
-            <a href="{{site.baseurl}}{{ plan.url }}">{{ plan.title }}</a>
+            <a href="{{ site.baseurl }}{{ plan.url }}">{{ plan.title }}</a>
           </h2>
           {{ plan.content | markdownify | strip_html | truncate: 100 }}
         </div>

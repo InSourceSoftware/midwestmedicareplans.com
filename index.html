@@ -1,11 +1,9 @@
 ---
-title: Midwest Medicare Plans - Subtitle
+title: Midwest Medicare Plans - Health Care, Medicare, Insurance Plans
 layout: default
 bodyClass: page-home
 heading: Midwest<br />Medicare<br />Plans
-description: Our business assists clients with knowledge and understanding of insurance
-  plans (risk transfer products) for out of pocket costs of their healthcare services.<br
-  /><br />We offer advice on&colon;
+description: Welcome to my site.
 plans: false
 services: true
 highlights: false
@@ -15,10 +13,10 @@ features: false
 <div class="intro pb-4">
   <div class="container">
     <h1>{{ page.heading }}</h1>
-    <p>{{ page.description }}</p>
+    <p>{{ site.page_descriptions.index | default: page.description }}</p>
     <ul>
       {% for plan in site.plans %}
-        <li><a href="{{site.baseurl}}{{ plan.url }}" title="{{ plan.description }}">{{ plan.title }}</a></li>
+        <li><a href="{{ site.baseurl }}{{ plan.url }}" title="{{ plan.description }}">{{ plan.title }}</a></li>
       {% endfor %}
     </ul>
   </div>
@@ -35,7 +33,7 @@ features: false
       </div>
     </div>
     <div class="call-box-bottom">
-      <a href="{{site.baseurl}}/contact" class="button">Contact</a>
+      <a href="{{ site.baseurl }}/contact" class="button">Contact</a>
     </div>
   </div>
 </div>
@@ -51,7 +49,7 @@ features: false
       <div class="service service-summary">
         <div class="service-content">
           <h2 class="service-title">
-            <a href="{{site.baseurl}}{{ plan.url }}">{{ plan.title }}</a>
+            <a href="{{ site.baseurl }}{{ plan.url }}">{{ plan.title }}</a>
           </h2>
           {{ plan.content | markdownify | strip_html | truncate: 100 }}
         </div>
@@ -59,7 +57,7 @@ features: false
     </div>
     {% endfor %}
     <div class="col-12 text-center">
-      <a class="button button-primary mt-2" href="{{site.baseurl}}/plans">View All Plans</a>
+      <a class="button button-primary mt-2" href="{{ site.baseurl }}/plans">View All Plans</a>
     </div>
   </div>
 </div>
@@ -76,7 +74,7 @@ features: false
       <div class="service service-summary">
         <div class="service-content">
           <h2 class="service-title">
-            <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
+            <a href="{{ site.baseurl }}{{ service.url }}">{{ service.title }}</a>
           </h2>
           {{ service.content | markdownify | strip_html | truncate: 100 }}
         </div>
@@ -84,7 +82,7 @@ features: false
     </div>
     {% endfor %}
     <div class="col-12 text-center">
-      <a class="button button-primary mt-2" href="{{site.baseurl}}/services">View All Services</a>
+      <a class="button button-primary mt-2" href="{{ site.baseurl }}/services">View All Services</a>
     </div>
   </div>
 </div>
