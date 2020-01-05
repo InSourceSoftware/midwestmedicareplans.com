@@ -12,6 +12,6 @@ Even if you do not yet know, you will want to contact me for a health eligibilit
 Why do a free Medicare Supplement affordability review?
 
 
-It's free and when we determine the answer you will know what plan you may be comfortable with. The review consists of helping you know your options for maximizing the value of dollars spent on health-care premiums. Premium comparison of 3 carrier plans is done based on your zip code. 
+When we determine the answer you will know what plan you may be comfortable with. The review consists of helping you with your options for maximizing the value of dollars spent on health-care premiums. Premium comparison of 3 carrier plans is done based on your zip code. 
 
 
