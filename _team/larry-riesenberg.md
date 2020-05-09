@@ -1,15 +1,14 @@
 ---
 title: Larry Riesenberg
+published: false
 image: "/images/team/peter-van-eijk-711986-unsplash.jpg"
 jobtitle: Owner
 email: larry@midwestmedicareplans.com
 linkedinurl: https://www.linkedin.com/
 ---
 
-Bachelor of Science degree, Elementary Education, Iowa State University. 
-Licensed in health and life insurance in Iowa and Nebraska for 20 years.
-Certified by American Health Insurance Plans (AHIP).
-Appointed as representative by nationally respected insurance companies.
+Bachelor of Science degree, Elementary Education, Iowa State University. Licensed in health and life insurance in Iowa and Nebraska for 20 years.
+Certified for 2020 by American Health Insurance Plans. Authorized Independent Agent of Wellmark Blue Cross and Blue Shield of Iowa.
   
 Employed four (4) years serving handicapped and developmentally disabled adult clients as direct care provider, which included independent living skills teacher in human services agencies. These agencies provided work and home environments for adult clients. 
 
