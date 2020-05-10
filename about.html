@@ -2,10 +2,10 @@
 title: About
 layout: default
 bodyClass: page-team-list
-heading: About Your Authorized Agent
+heading: About Your Agent
 description: An authorized agent can navigate the waters of constant change in the
   Medicare insurance landscape to help you find the best possible plan for your situation.
-  Meet your authorized agent.
+  Meet your agent.
 ---
 
 <div class="intro">
@@ -35,7 +35,9 @@ description: An authorized agent can navigate the waters of constant change in t
         {% endif %}
         <div class="team-meta">
           <h2 class="team-name">{{ team.title }}</h2>
+          {% if team.jobtitle %}
           <p class="team-description">{{ team.jobtitle }}</p>
+          {% endif %}
           {% if team.linkedinurl %}
           <a target="_blank" href="{{ team.linkedinurl }}">LinkedIn</a> 
           {% endif %}

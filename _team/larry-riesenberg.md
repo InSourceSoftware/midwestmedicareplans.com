@@ -1,9 +1,8 @@
 ---
 title: Larry Riesenberg
 image: "/uploads/Larry%20Riesenberg.jpg"
-jobtitle: Owner
 email: larry@midwestmedicareplans.com
-linkedinurl: https://www.linkedin.com/
+linkedinurl: https://www.linkedin.com/in/larry-riesenberg-bb6798198/
 ---
 
 Bachelor of Science degree, Elementary Education, Iowa State University. Licensed in health and life insurance in Iowa and Nebraska for 20 years.
