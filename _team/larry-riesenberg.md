@@ -1,6 +1,6 @@
 ---
 title: Larry Riesenberg
-image: "/images/team/peter-van-eijk-711986-unsplash.jpg"
+image: "/uploads/Larry%20Riesenberg.jpg"
 jobtitle: Owner
 email: larry@midwestmedicareplans.com
 linkedinurl: https://www.linkedin.com/
