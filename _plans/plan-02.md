@@ -12,7 +12,7 @@ A Prescription Drug Plan(PDP)is a Medicare Part D optional benefit. You should c
 
 Some Medicare Advantage (MA) plans have built in prescription drug coverage (MA-PD). Your county and state of residence may determine which plans are offered in your location. It is convenient and easy to enroll over the phone and internet with me. 
 
-At the time you first join Medicare Part A or Part B you may select a PDP. Be aware of penalties Medicare may impose later if you chose not to have any creditable coverage but need it later. 
+At the time you first join Medicare Part A or Part B you may select a PDP. Be aware of penalties Medicare may impose if you chose not to have any creditable coverage but need it later. 
 
 The Annual Election Period (AEP) open enrollment is from October 15-December 7 for the following January 1 effective date.
 
