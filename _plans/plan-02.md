@@ -8,7 +8,7 @@ image: "/images/services/noun_180174_0.png"
 
 
 
-A Prescription Drug Plan(PDP)is a Medicare Part D optional benefit. You should consider enrolling in a plan even if you use few or no prescription drugs at this time. The cost of a plan may be within your budget if you shop carefully. We can find potentially one,two,or more plans which would help you. There are several reliable well known companies which I carefully selected to represent. 
+A Prescription Drug Plan(PDP)is a Medicare Part D optional benefit. You should consider enrolling in a plan even if you use few or no prescription drugs at this time. The cost of a plan may be within your budget if you shop carefully. We can find potentially one, two, or more plans which would help you. Using my experience I have chosen several reliable well known PDP plans to represent. 
 
 Some Medicare Advantage (MA) plans have built in prescription drug coverage (MA-PD). Your county and state of residence may determine which plans are offered in your location. It is convenient and easy to enroll over the phone and internet with me. 
 
