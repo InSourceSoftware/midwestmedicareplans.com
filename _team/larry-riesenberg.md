@@ -5,6 +5,8 @@ email: larry@midwestmedicareplans.com
 linkedinurl: https://www.linkedin.com/in/larry-riesenberg-bb6798198/
 ---
 
+
+
 Bachelor of Science degree, Elementary Education, Iowa State University. Licensed in health and life insurance in Iowa and Nebraska for 24 years.
 
 Annual Certification American Health Insurance Plans (AHIP)
@@ -16,4 +18,4 @@ Responsible for accurate transmission of premium rates, insurance features and b
 
 Two (2) years experience as Inside Sales Representative & Claims Customer Service Representative for Continental General Insurance Company. 
 
-My experiences inside insurance companies provide me with valuable knowledge of what costs clients time, frustration, and money. A proven problem solver, you can expect from me money saving sales advice, and professional service.
+Having real life experience inside insurance companies provides me with valuable knowledge I can put to work for you. Together we will manage your time, maximize your satisfaction, and save you money. 
