@@ -1,18 +1,23 @@
 .page-team-list {
-  background-image: url('../images/undraw_seniors_sitting.jpg');
+  background-image: url('../images/seniors_sitting.png');
   background-repeat: no-repeat;
-  background-size: 115%;
-  background-position: 49px -40px;
+  background-size: 100%;
+  background-position: 100% 50px;
   @include media-breakpoint-up(sm) {
     background-size: 90%;
-    background-position: 159px -40px;
+    background-position: 95% 50px;
   }
   @include media-breakpoint-up(md) {
     background-size: 85%;
-    background-position: 199px -80px;
+    background-position: 90% 50px;
   }
   @include media-breakpoint-up(lg) {
-    background-size: 60%;
+    background-size: 80%;
+    background-position: 90% 110px;
+  }
+  @include media-breakpoint-up(xl) {
+    background-image: url('../images/seniors_sitting-2x.png');
+    background-size: 70%;
     background-position: 100% 110px;
   }
 }
