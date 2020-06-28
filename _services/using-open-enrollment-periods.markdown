@@ -17,7 +17,7 @@ The last day of the person's Part B initial enrollment period.
 
 The October 15-December 7 Annual Election Period (AEP)allows you to change a Medicare Advantage Prescription Drug Plan effective for the new calendar year.
 
-The AEP does not affect Medicare Supplement Insurance directly.  
+The AEP does not affect Medicare Supplement Insurance.   
 
 Let's talk through your options.  
 
