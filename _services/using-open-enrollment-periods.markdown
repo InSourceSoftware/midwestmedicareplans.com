@@ -6,7 +6,7 @@ date: 2020-06-28 01:09:00 Z
 
 
 
-When you turn age 65 you could begin your 6 month Medicare Supplement Open Enrollment Period (OEP). Starting Medicare Part B begins your OEP. 
+When you turn age 65 you could begin your 6 month Medicare Supplement Open Enrollment Period (OEP). Starting Medicare Part B begins your OEP. This is a one time period to enroll in and choose a Medicare Supplement plan of your choice and not be subject to answering any health questions to be approved.   
   
 If you choose not to start your Medicare Part B and stay in a group health plan of creditable coverage, 
 you can use the open enrollment period later.  
