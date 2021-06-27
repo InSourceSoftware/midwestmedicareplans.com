@@ -1,5 +1,6 @@
 <div id="main-menu" class="main-menu">
   <ul>
+    <li class="contact-info">{{ site.data.contact.phone }}</li>
     {% for nav in site.data.navigation %}
     {% if nav[0] == 'home' %}
     <li><a href="{{ site.baseurl }}/" class="{% if page.url == '/' %}current{% endif %}">{{ nav[1] }}</a></li>

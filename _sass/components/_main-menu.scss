@@ -64,5 +64,9 @@
         transition: all 225ms ease-in 0s;
       }
     }
+    > li.contact-info {
+      color: $secondary;
+      padding: 10px 34px 10px 14px;
+    }
   }
 }
